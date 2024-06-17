@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/IdeaProjects.iml" filepath="$PROJECT_DIR$/.idea/IdeaProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/auditoriski5/auditoriski5.iml" filepath="$PROJECT_DIR$/auditoriski5/auditoriski5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/auditoriski6/auditoriski6.iml" filepath="$PROJECT_DIR$/auditoriski6/auditoriski6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/auditoriski7/auditoriski7.iml" filepath="$PROJECT_DIR$/auditoriski7/auditoriski7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/intejava/intejava.iml" filepath="$PROJECT_DIR$/intejava/intejava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ispitzad/ispitzad.iml" filepath="$PROJECT_DIR$/ispitzad/ispitzad.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab2_1/lab2_1.iml" filepath="$PROJECT_DIR$/lab2_1/lab2_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab_1_1/lab_1_1.iml" filepath="$PROJECT_DIR$/lab_1_1/lab_1_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab_1_2/lab_1_2.iml" filepath="$PROJECT_DIR$/lab_1_2/lab_1_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab_1_3/lab_1_3.iml" filepath="$PROJECT_DIR$/lab_1_3/lab_1_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/probaDL/probaDL.iml" filepath="$PROJECT_DIR$/probaDL/probaDL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/probaklasi/probaklasi.iml" filepath="$PROJECT_DIR$/probaklasi/probaklasi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vezbanje/vezbanje.iml" filepath="$PROJECT_DIR$/vezbanje/vezbanje.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vezbanje2/vezbanje2.iml" filepath="$PROJECT_DIR$/vezbanje2/vezbanje2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vezbanje3/vezbanje3.iml" filepath="$PROJECT_DIR$/vezbanje3/vezbanje3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vezbanje4/vezbanje4.iml" filepath="$PROJECT_DIR$/vezbanje4/vezbanje4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vezbaodcas/vezbaodcas.iml" filepath="$PROJECT_DIR$/vezbaodcas/vezbaodcas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vezbap/vezbap.iml" filepath="$PROJECT_DIR$/vezbap/vezbap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zadaca1aud/zadaca1aud.iml" filepath="$PROJECT_DIR$/zadaca1aud/zadaca1aud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zadaca2aud/zadaca2aud.iml" filepath="$PROJECT_DIR$/zadaca2aud/zadaca2aud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zadaca3aud/zadaca3aud.iml" filepath="$PROJECT_DIR$/zadaca3aud/zadaca3aud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zadaud4/zadaud4.iml" filepath="$PROJECT_DIR$/zadaud4/zadaud4.iml" />
+    </modules>
+  </component>
+</project>
